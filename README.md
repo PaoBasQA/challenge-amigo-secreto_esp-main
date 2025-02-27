@@ -1,5 +1,6 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
 <em> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
+![Interfaz del Amigo Secreto](assets/amigo-secreto.png)
 
 ## Descripción
 
@@ -18,6 +19,7 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 
 1. Clona este repositorio o descarga los archivos.
 2. Abre el archivo `index.html` en tu navegador preferido.
+3. Utiliza Live Server para abrir al juego.
 
 ## Instrucciones de uso
 
@@ -32,10 +34,10 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 3. **Reiniciar el juego**:
    - Si deseas comenzar de nuevo, haz clic en el botón "Reiniciar juego". Esto limpiará todas las listas y permitirá volver a empezar.
 
-## Capturas de pantalla
+## Video de ejemplo
 
-![Interfaz del Amigo Secreto](ruta/a/tu/imagen.png)  
-*Imagen de ejemplo de la interfaz del juego.*
+![Interfaz del Amigo Secreto](assets/AnimaciónAmigoSecreto.gif)
+*Video de ejemplo de la interfaz del juego.*
 
 ## Tecnologías utilizadas
 
