@@ -1,6 +1,6 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
 <em> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
-![Interfaz del Amigo Secreto](assets/amigo-secreto.png)
+![Interfaz del Amigo Secreto](assets/amigoSecreto.jpg)
 
 ## Descripción
 
@@ -37,6 +37,7 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 ## Video de ejemplo
 
 ![Interfaz del Amigo Secreto](assets/AnimaciónAmigoSecreto.gif)
+
 *Video de ejemplo de la interfaz del juego.*
 
 ## Tecnologías utilizadas
