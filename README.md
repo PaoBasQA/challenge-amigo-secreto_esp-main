@@ -1,10 +1,13 @@
-<h1 align="center"> Challenge Amigo Secreto </h1>
+<h1 align="center"> 🎁 Challenge Amigo Secreto 🎉 </h1>
 <em> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
-![Interfaz del Amigo Secreto](assets/amigoSecreto.jpg)
 
-## Descripción
 
-El proyecto "Amigo Secreto" es una aplicación web simple que permite a los usuarios ingresar una lista de nombres y sortear aleatoriamente un "amigo secreto" sin repetir nombres hasta que todos hayan sido seleccionados. Es ideal para organizar sorteos en reuniones, fiestas o eventos.
+![Carátula del Amigo Secreto](assets/amigoSecreto.jpg)
+
+📖 Descripción
+El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que permite a los usuarios ingresar una lista de nombres y sortear aleatoriamente un "amigo secreto" sin repetir nombres hasta que todos hayan sido seleccionados. ¡Ideal para organizar sorteos en reuniones, fiestas o eventos familiares! ✨
+
+"La magia del amigo secreto está en la sorpresa." 🎲 
 
 ## Funcionalidades principales
 
@@ -58,8 +61,7 @@ Este proyecto es de código abierto. Si deseas contribuir, sigue estos pasos:
 
 ## Autor
 
-- **Paola Bastida** - [Enlace a tu perfil de GitHub](https://github.com/tu-usuario)
-
+- **Paola Bastida** - [Enlace a tu perfil de GitHub](https://github.com/PaoBasQA/challenge-amigo-secreto_esp-main)
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
