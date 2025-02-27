@@ -1,10 +1,10 @@
 <h1 align="center"> 🎁 Challenge Amigo Secreto 🎉 </h1>
-<em> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
+<em align="center"> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
 
 
-![Carátula del Amigo Secreto](assets/amigoSecreto.jpg)
+align="center" ![Carátula del Amigo Secreto](assets/amigoSecreto.jpg)
 
-📖 Descripción
+## 📖 Descripción
 El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que permite a los usuarios ingresar una lista de nombres y sortear aleatoriamente un "amigo secreto" sin repetir nombres hasta que todos hayan sido seleccionados. ¡Ideal para organizar sorteos en reuniones, fiestas o eventos familiares! ✨
 
 "La magia del amigo secreto está en la sorpresa." 🎲 
