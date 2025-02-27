@@ -1,42 +1,84 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. 
-// Aquí deberás desarrollar la lógica para resolver el problema.
+// Variables globales
+let nombres = []; // Lista de nombres ingresados por el usuario
+let nombresSorteados = []; // Almacena los nombres ya seleccionados
 
-// Declarar el array que almacenará los nombres de los amigos
-let amigos = [];
-
-// Función para agregar un nombre a la lista (amigos)
+// Función para agregar un nombre a la lista
 function agregarAmigo() {
-    let input = document.getElementById("amigo");
-    let nombre = input.value.trim();  //Elimina espacios en blanco
-}
+    // Obtener el valor del input
+    let nombre = document.getElementById('amigo').value.trim();
 
-//Validar la entrada: Implementar una validación para asegurarse de que el campo no esté vacío. 
-// Si está vacío, mostrar un alert con un mensaje de error: "Por favor, inserte un nombre."
-    if (amigos === "") {
-        alert("Por favor, inserte un nombre.");
+    // Validar que el nombre no esté vacío
+    if (nombre === "") {
+        alert("Por favor, ingresa un nombre válido.");
         return;
     }
 
-//Actualizar el array de amigos: Si el valor es válido, 
-//añadirlo al arreglo que almacena los nombre de amigos usando el método.push().
-    nombre.push(nombre);
+    // Agregar el nombre a la lista global
+    nombres.push(nombre);
 
-//Limpiar el campo de entrada (input): Después de añadir el nombre, 
-// restablecer el campo de texto a una cadena vacía.
+    // Limpiar el input
     document.getElementById('amigo').value = "";
 
-//investigar listas:
-/* Crea una función que recorra el array amigos y agregue cada nombre como un elemento <li> 
-dentro de una lista HTML. Usa innerHTML para limpiar la lista antes de agregar nuevos elementos.*/
+    // Actualizar la lista visible de amigos
+    actualizarListaAmigos();
+}
 
+// Función para actualizar la lista visible de amigos
+function actualizarListaAmigos() {
+    let listaHTML = document.getElementById('listaAmigos');
+    listaHTML.innerHTML = ""; // Limpiar la lista actual
 
-//Obtener el elemento de la lista: Utilizar document.getElementById() o document.querySelector() 
-// para seleccionar la lista donde se mostrarán los amigos.
+    // Recorrer la lista de nombres y agregar cada uno como un <li>
+    nombres.forEach((nombre) => {
+        let li = document.createElement('li');
+        li.textContent = nombre;
+        listaHTML.appendChild(li);
+    });
+}
 
-//Limpiar la lista existente: Establecer lista.innerHTML = "" para asegurarse de que no haya 
-// duplicados al actualizar.
+// Función para sortear un amigo
+function sortearAmigo() {
+    // Verificar si hay nombres disponibles para sortear
+    if (nombres.length === 0) {
+        alert("No hay nombres para sortear. Por favor, añade algunos nombres.");
+        return;
+    }
 
-//Iterar sobre el arreglo: Usa un bucle for para recorrer el arreglo amigos y crear elementos 
-// de lista (<li>) para cada título.
+    // Verificar si ya se sortearon todos los nombres
+    if (nombresSorteados.length === nombres.length) {
+        document.getElementById('resultado').innerHTML = "<li>¡Ya se sortearon todos los nombres!</li>";
+        return;
+    }
 
-//Agregar elementos a la lista: Para cada amigo, crear un nuevo elemento de lista.
+    // Generar un índice aleatorio
+    let indiceAleatorio;
+    let nombreSorteado;
+
+    do {
+        indiceAleatorio = Math.floor(Math.random() * nombres.length);
+        nombreSorteado = nombres[indiceAleatorio];
+    } while (nombresSorteados.includes(nombreSorteado)); // Repetir hasta encontrar un nombre no sorteado
+
+    // Agregar el nombre sorteado a la lista de sorteados
+    nombresSorteados.push(nombreSorteado);
+
+    // Mostrar el nombre sorteado en la lista de resultados
+    let resultadoHTML = document.getElementById('resultado');
+    let li = document.createElement('li');
+    li.textContent = nombreSorteado;
+    resultadoHTML.appendChild(li);
+}
+
+// Función para reiniciar el juego
+function reiniciarJuego() {
+    // Limpiar las listas globales
+    nombres = [];
+    nombresSorteados = [];
+
+    // Limpiar el input
+    document.getElementById('amigo').value = "";
+
+    // Limpiar las listas visibles
+    document.getElementById('listaAmigos').innerHTML = "";
+    document.getElementById('resultado').innerHTML = "";
+}
