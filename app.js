@@ -13,7 +13,7 @@ function agregarAmigo() {
         return;
     }
 
-    // Agregar el nombre a la lista global
+    // Añadir el nombre al arreglo usando .push()
     nombres.push(nombre);
 
     // Limpiar el input
@@ -81,4 +81,7 @@ function reiniciarJuego() {
     // Limpiar las listas visibles
     document.getElementById('listaAmigos').innerHTML = "";
     document.getElementById('resultado').innerHTML = "";
+
+    // Mostrar un mensaje opcional si deseas informar al usuario
+    alert("El juego ha sido reiniciado. Puedes empezar de nuevo.");
 }
