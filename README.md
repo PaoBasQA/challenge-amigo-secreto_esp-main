@@ -29,8 +29,7 @@ El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que per
 
 Este proyecto no requiere instalación especial. Simplemente descarga los archivos y ábrelos en tu navegador. 🚀
 
-1. Clona este repositorio o descarga los archivos: 
-      git clone https://github.com/tu-repositorio/challenge-amigo-secreto.git
+1. Clona este repositorio o descarga los archivos: git clone https://github.com/tu-repositorio/challenge-amigo-secreto.git
 2. Abre el archivo `index.html` en tu navegador preferido.
 3. Utiliza Live Server para abrir el juego.
 
@@ -51,9 +50,9 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 
 ![Interfaz del Amigo Secreto](assets/AnimaciónAmigoSecreto.gif)
 
-<div align:"center";>
-*Video de ejemplo de la interfaz del juego.*
-</div>
+<p align:"center";>
+   *Video de ejemplo de la interfaz del juego.*
+</p>
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -82,6 +81,7 @@ Este proyecto es de código abierto y tus contribuciones son bienvenidas! 🌱 S
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟
+<p aling:"center";>🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟
 
-¡Diviértete y buena suerte! 🍀
+🍀¡Diviértete y buena suerte! 🍀
+</p>
