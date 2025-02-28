@@ -31,12 +31,16 @@ El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que per
 
 <p align="center">"La magia del amigo secreto está en la sorpresa." 🎲 </p>
 
+### 📑 [Ir al índice](#indice)
+
 ## 🌟 Funcionalidades principales
 
 - 📝 **Ingreso dinámico de nombres**: Los usuarios pueden agregar nombres a través de un campo de texto.
 - 🎲 **Sorteo aleatorio**: Al hacer clic en el botón "Sortear amigo", se selecciona un nombre al azar de la lista sin repetir.
 - 📋 **Visualización de resultados**: Los nombres sorteados se muestran en una lista separada.
 - 🔄 **Reinicio del juego**: Se puede reiniciar el juego para comenzar desde cero.
+
+### 📑 [Ir al índice](#indice)
 
 ## 💻 Instrucciones de instalación
 
@@ -45,6 +49,8 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 1. Clona este repositorio o descarga los archivos: git clone https://github.com/tu-repositorio/challenge-amigo-secreto.git
 2. Abre el archivo `index.html` en tu navegador preferido.
 3. Utiliza Live Server para abrir el juego.
+
+### 📑 [Ir al índice](#indice)
 
 ## 🎮 Instrucciones de uso
 
@@ -59,11 +65,15 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 3. **Reiniciar el juego**:
    - Si deseas comenzar de nuevo, haz clic en el botón "Reiniciar juego". Esto limpiará todas las listas y permitirá volver a empezar. 🔁
 
+### 📑 [Ir al índice](#indice)
+
 ## 🎬 Video de ejemplo
 
 ![Interfaz del Amigo Secreto](assets/AnimaciónAmigoSecreto.gif)
 
 <p align="center">*Video de ejemplo de la interfaz del juego.*</p>
+
+### 📑 [Ir al índice](#indice)
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -72,6 +82,8 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 - **JavaScript**: Lógica del juego, como el ingreso de nombres, el sorteo aleatorio y la gestión de listas. 🧠
 
 <p align="center">🔥 Hecho con pasión y tecnología moderna 🔥</p>
+
+### 📑 [Ir al índice](#indice)
 
 ## 🤝 Contribuciones
 
@@ -83,14 +95,21 @@ Este proyecto es de código abierto y tus contribuciones son bienvenidas! 🌱 S
 4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`). 🚀
 5. Envía un pull request. 💌
 
+### 📑 [Ir al índice](#indice)
+
 ## 👩‍💻 Autor
 
 - **Paola Bastida** - [Enlace a mi perfil de GitHub](https://github.com/PaoBasQA)
 - 📧 Contacto: paobastidaqa@gmail.com
 
+### 📑 [Ir al índice](#indice)
+
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+### 📑 [Ir al índice](#indice)
+
 <hr>
 <p align="center">
 🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟</p>
