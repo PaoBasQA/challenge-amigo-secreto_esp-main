@@ -80,4 +80,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 <hr>
 <p align="center">
 🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟
+
 🍀¡Diviértete y buena suerte! 🍀</p>
