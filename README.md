@@ -79,6 +79,6 @@ Este proyecto es de código abierto y tus contribuciones son bienvenidas! 🌱 S
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 <hr>
 <p align="center">
-🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟
-
+🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟</p>
+<p align="center">
 🍀¡Diviértete y buena suerte! 🍀</p>
