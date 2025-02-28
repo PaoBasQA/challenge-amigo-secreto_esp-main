@@ -1,6 +1,7 @@
 <h1 align="center"> 🎁 Challenge Amigo Secreto 🎉 </h1>
-<em align="center"> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
-
+<div align="center">
+   <em> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20desarrollo-blueviolet" alt="Estado del proyecto">
@@ -9,13 +10,13 @@
 </p>
 
 <div align="center">
-  <img src="assets/amigoSecreto.jpg" alt="Carátula del Amigo Secreto" style="border: 2px solid #4B69FD; border-radius: 10px; width: 500px;">
+  <img src="assets/amigoSecreto.jpg" alt="Carátula del Amigo Secreto">
 </div>
 
 ## 📖 Descripción
 El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que permite a los usuarios ingresar una lista de nombres y sortear aleatoriamente un "amigo secreto" sin repetir nombres hasta que todos hayan sido seleccionados. ¡Ideal para organizar sorteos en reuniones, fiestas o eventos familiares! ✨
 
-<p style="color: #4B69FD; font-weight: bold;">"La magia del amigo secreto está en la sorpresa." 🎲 
+<p align="center">"La magia del amigo secreto está en la sorpresa." 🎲 </p>
 
 ## 🌟 Funcionalidades principales
 
@@ -50,7 +51,9 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 
 ![Interfaz del Amigo Secreto](assets/AnimaciónAmigoSecreto.gif)
 
+<div align:"center";>
 *Video de ejemplo de la interfaz del juego.*
+</div>
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -58,11 +61,9 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 - **CSS**: Estilos visuales y diseño responsivo. 🎨
 - **JavaScript**: Lógica del juego, como el ingreso de nombres, el sorteo aleatorio y la gestión de listas. 🧠
 
-<p style="color: #fe652b; font-weight: bold; aling:"center";>🔥 Hecho con pasión y tecnología moderna 🔥</p>
+<p aling:"center";>🔥 Hecho con pasión y tecnología moderna 🔥</p>
 
 ## 🤝 Contribuciones
-
-<p style="color: #C4C4C4;">💡 ¡Todas las contribuciones son bienvenidas! 💡</p>
 
 Este proyecto es de código abierto y tus contribuciones son bienvenidas! 🌱 Si deseas contribuir, sigue estos pasos:
 
@@ -74,15 +75,13 @@ Este proyecto es de código abierto y tus contribuciones son bienvenidas! 🌱 S
 
 ## 👩‍💻 Autor
 
-- **Paola Bastida** - [Enlace a tu perfil de GitHub](https://github.com/PaoBasQA/challenge-amigo-secreto_esp-main)
-<p style="color: #444444;">📧 Contacto: paobastidaqa@gmail.com</p>
+- **Paola Bastida** - [Enlace a tu perfil de GitHub](https://github.com/PaoBasQA)
+- 📧 Contacto: paobastidaqa@gmail.com
 
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-🎉 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto.
-¡Diviértete y buena suerte! 🍀
+🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟
 
-<p style="color: #4B69FD; font-weight: bold;">🌟 Gracias por visitar este proyecto. ¡Espero que lo disfrutes! 🌟</p>
-```
+¡Diviértete y buena suerte! 🍀
