@@ -12,6 +12,17 @@
   <img src="assets/amigoSecreto.jpg" alt="Carátula del Amigo Secreto">
 </div>
 
+📑 Índice
+1. [Descripción](#descripción)
+2. [Funcionalidades principales](#funcionalidades-principales)
+Instrucciones de instalación
+Instrucciones de uso
+Video de ejemplo
+Tecnologías utilizadas
+Contribuciones
+Autor
+Licencia
+
 ## 📖 Descripción
 El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que permite a los usuarios ingresar una lista de nombres y sortear aleatoriamente un "amigo secreto" sin repetir nombres hasta que todos hayan sido seleccionados. ¡Ideal para organizar sorteos en reuniones, fiestas o eventos familiares! ✨
 
