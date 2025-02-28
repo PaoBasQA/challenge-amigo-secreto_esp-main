@@ -1,14 +1,16 @@
 <h1 align="center"> 🎁 Challenge Amigo Secreto 🎉 </h1>
-<em> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
+<em align="center"> # 1º Challenge - Alura Latam / Oracle - ONE Grupo 8</em>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En%20desarrollo-blueviolet" alt="Estado del proyecto">
+
   <img src="https://img.shields.io/badge/Licencia-MIT-green" alt="Licencia">
 </p>
 
-
-
-![Carátula del Amigo Secreto](assets/amigoSecreto.jpg)
+<div align="center">
+  <img src="assets/amigoSecreto.jpg" alt="Carátula del Amigo Secreto" style="border: 2px solid #4B69FD; border-radius: 10px; width: 500px;">
+</div>
 
 ## 📖 Descripción
 El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que permite a los usuarios ingresar una lista de nombres y sortear aleatoriamente un "amigo secreto" sin repetir nombres hasta que todos hayan sido seleccionados. ¡Ideal para organizar sorteos en reuniones, fiestas o eventos familiares! ✨
@@ -26,7 +28,8 @@ El proyecto "Amigo Secreto" es una aplicación web simple pero divertida que per
 
 Este proyecto no requiere instalación especial. Simplemente descarga los archivos y ábrelos en tu navegador. 🚀
 
-1. Clona este repositorio o descarga los archivos desde: git clone https://github.com/tu-repositorio/challenge-amigo-secreto.git
+1. Clona este repositorio o descarga los archivos: 
+      git clone https://github.com/tu-repositorio/challenge-amigo-secreto.git
 2. Abre el archivo `index.html` en tu navegador preferido.
 3. Utiliza Live Server para abrir el juego.
 
@@ -55,7 +58,7 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 - **CSS**: Estilos visuales y diseño responsivo. 🎨
 - **JavaScript**: Lógica del juego, como el ingreso de nombres, el sorteo aleatorio y la gestión de listas. 🧠
 
-<p style="color: #fe652b; font-weight: bold;">🔥 Hecho con pasión y tecnología moderna 🔥</p>
+<p style="color: #fe652b; font-weight: bold; aling:"center";>🔥 Hecho con pasión y tecnología moderna 🔥</p>
 
 ## 🤝 Contribuciones
 
