@@ -50,7 +50,7 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 ![Interfaz del Amigo Secreto](assets/AnimaciónAmigoSecreto.gif)
 
 <div align:"center";>
-   *Video de ejemplo de la interfaz del juego.*
+   <p>"*Video de ejemplo de la interfaz del juego.*"</p>
 </div>
 
 ## 🛠️ Tecnologías utilizadas
@@ -59,7 +59,9 @@ Este proyecto no requiere instalación especial. Simplemente descarga los archiv
 - **CSS**: Estilos visuales y diseño responsivo. 🎨
 - **JavaScript**: Lógica del juego, como el ingreso de nombres, el sorteo aleatorio y la gestión de listas. 🧠
 
-<div aling:"center";>🔥 Hecho con pasión y tecnología moderna 🔥</div>
+<div aling:"center";>
+   <p>"🔥 Hecho con pasión y tecnología moderna 🔥"</p>
+</div>
 
 ## 🤝 Contribuciones
 
@@ -80,7 +82,9 @@ Este proyecto es de código abierto y tus contribuciones son bienvenidas! 🌱 S
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 <hr>
-<div aling:"center";>🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟
-
+<div aling:"center";>
+   <p>🌟 ¡Gracias por visitar este repositorio! Espero que disfrutes del juego del Amigo Secreto. 🌟
+   
 🍀¡Diviértete y buena suerte! 🍀
+   </p>
 </div>
