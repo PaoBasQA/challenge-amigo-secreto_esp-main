@@ -71,7 +71,7 @@ Este proyecto es de código abierto y tus contribuciones son bienvenidas! 🌱 S
 
 ## 👩‍💻 Autor
 
-- **Paola Bastida** - [Enlace a tu perfil de GitHub](https://github.com/PaoBasQA)
+- **Paola Bastida** - [Enlace a mi perfil de GitHub](https://github.com/PaoBasQA)
 - 📧 Contacto: paobastidaqa@gmail.com
 
 ## 📜 Licencia
